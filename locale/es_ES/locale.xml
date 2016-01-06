@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+<!--  
+* locale.xml  
+*  
+* Localization strings for the es_ES (Español (España)) locale.  
+*  --> 
+<locale name="es_ES" full_name="Español (España)">	
+	<message key="plugins.generic.socialMetatags.displayName">Metadatos Sociales</message>	
+	<message key="plugins.generic.socialMetatags.description">Este plugin agrega metadatos Open Graph y Twitter cards.</message>
+        <message key="plugins.generic.socialMetatags.settings">Configuración</message>        
+</locale>
