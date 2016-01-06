@@ -77,8 +77,6 @@ class SocialMetatags {
     function getPageSocialMetaTags(){
         $journal = Request::getJournal();
         
-        var_dump("dsfsdf");
-        
         $title = $journal->getLocalizedTitle();
         $type = 'webpage';
         $url = Request::url();
