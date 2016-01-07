@@ -118,8 +118,8 @@ class SocialMetatags {
         $tagsStr .= '<meta name="twitter:title" content="'.str_replace('"', '', $title).'" />'."\n";
         $tagsStr .= '<meta name="twitter:description" content="'. $description .'" />'."\n";
         
-        if ($articleImage) {
-            $tagsStr .= '<meta name="twitter:image" content="' . $articleImage . '" />'."\n";
+        if ($journalImage) {
+            $tagsStr .= '<meta name="twitter:image" content="' . $journalImage . '" />'."\n";
         }
         
         return $tagsStr;
