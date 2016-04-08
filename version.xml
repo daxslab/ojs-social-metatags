@@ -12,8 +12,6 @@
 <version>
 	<application>socialMetatags</application>
 	<type>plugins.generic</type>
-	<release>0.4.2.0</release>
-	<date>2016-01-05</date>
-	<lazy-load>1</lazy-load>
-	<class>SocialMetatagsPlugin</class>
+	<release>1.1.0.0</release>
+	<date>2016-04-08</date>
 </version>
